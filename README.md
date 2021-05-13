@@ -7,6 +7,8 @@ Selenium webdrive(java) usando Page objects.
 Casos de testes:
 
 -Entrar no site http://sampleapp.tricentis.com/101/app.php
+![image](https://user-images.githubusercontent.com/80386756/118137884-187db280-b3dc-11eb-8b02-c66659bd9b06.png)
+
 
 -Preencher o formulário, aba “Enter Vehicle Data” e pressione next
 
